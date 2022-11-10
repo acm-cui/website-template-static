@@ -4,7 +4,7 @@ This is a template for building a website part of the ACM CUI conference/worksho
 
 This template repository is for static websites.
 
-# Requirements/instructions
+## Requirements/instructions
 
 1. Put your website in the root of this repository in the `main` branch
 
